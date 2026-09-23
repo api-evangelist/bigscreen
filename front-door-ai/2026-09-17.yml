@@ -1,0 +1,27 @@
+# Front Door AI Index — bigscreen — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: bigscreen
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.bigscreenvr.com
+  final_host: bigscreenvr.com
+  ownership: own
+  owner: bigscreen
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 5
+  host_score: 5
+  density: 1.5
+  words: 3340
+  tiers:
+    agentic: 4
+    core: 1
+    model: 0
+  ambiguous: 0
+  top_terms:
+    fine-tune: 3
+    AI: 1
+    inference: 1
